@@ -17,6 +17,12 @@
 
 - show圖片demo是用web url，如何用local file???
 
+## 環境
+
+android stduio
+android 10
+kotlin
+
 # 以下是fork的原版
 
 ---
