@@ -1,3 +1,26 @@
+# 隱形的imgpool
+
+## 目的
+
+- 在安卓外部SD卡中有一個目錄
+- 其放置許多圖片
+- 圖片皆以自訂副檔名儲存
+- 本程式可以觀看自訂附檔名的圖片
+- 亦可以將資料夾中的所有圖片檔轉換為副檔名
+
+## 進度
+
+- 可以得到外部的sd卡路徑
+> 在第一次commit看差異
+
+## 卡住了
+
+- show圖片demo是用web url，如何用local file???
+
+# 以下是fork的原版
+
+---
+
 [![codebeat badge](https://codebeat.co/badges/91ce76f4-cba6-4971-aad7-070e635d11be)](https://codebeat.co/projects/github-com-stfalcon-studio-stfalconimageviewer-master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23c4c8c6f44541a8bfdb0e385da2436a)](https://www.codacy.com/app/troy.carvill/StfalconImageViewer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stfalcon-studio/StfalconImageViewer&amp;utm_campaign=Badge_Grade)
 [![Download](https://api.bintray.com/packages/troy379/maven/StfalconImageViewer/images/download.svg) ](https://bintray.com/troy379/maven/StfalconImageViewer/_latestVersion)
